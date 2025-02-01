@@ -13,3 +13,8 @@ We are a startup with self-fund raised, and we are constantly developing and ope
 - rx-module-sticker-adapter
   - this Javascript library dependenced of Sticker module for Rhymix CMS.
   - This library helps with the server-side operation of the Sticker module.
+- rx-module-webpush
+  - FCM Based Web Push Support Module on Rhymix CMS
+- pickle
+  - open source random drawer using for random giveaway.
+  - nodejs based backend / Electron + React frontend
